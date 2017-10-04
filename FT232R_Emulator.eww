@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\FT232R_Emulator_Loader.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\FT232R_Emulator_Application.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+

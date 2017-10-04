@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>412808590</fileChecksum>
+  <configuration>
+    <name>STM32F0XX_Debug</name>
+    <outputs>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Application\STM32F0XX_Debug\Obj\main.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\Template_Application\STM32F0XX_Debug\Obj\main.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Application\STM32F0XX_Debug\Obj\main.o</file>
+      <file>$PROJ_DIR$\Source\main.c</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\Template_Application\STM32F0XX_Debug\Exe\Template_Application.out</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Application\STM32F0XX_Debug\Exe\FT232R_Emulator_Application.out</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Application\STM32F0XX_Debug\Obj\main.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\Template\STM32F0XX_Debug\Exe\Template.out</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Source\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1 0</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 6</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 7 4 5</file>
+        </tool>
+      </outputs>
+    </file>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Source\main.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>STM32F0XX_Release</name>
+    <outputs>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\Template_Application\STM32F0XX_Release\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Source\main.c</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Application\STM32F0XX_Release\Obj\main.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\Template_Application\STM32F0XX_Release\Obj\main.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Application\STM32F0XX_Release\Obj\main.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\Template_Application\STM32F0XX_Release\Obj\main.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\Template_Application\STM32F0XX_Release\Exe\Template_Application.out</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Application\STM32F0XX_Release\Exe\FT232R_Emulator_Application.out</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Source\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0 2</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 3 4</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 6 7</file>
+        </tool>
+      </outputs>
+    </file>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Source\main.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>STM32F10X_Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Source\main.c</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\Template_Application\STM32F10X_Debug\Obj\main.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\Template_Application\STM32F10X_Debug\Obj\main.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Application\STM32F10X_Debug\Exe\FT232R_Emulator_Application.out</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\Template\STM32F10X_Debug\Exe\Template.out</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Application\STM32F10X_Debug\Obj\main.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\Application\STM32F10X_Debug\Exe\Application.out</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\Template_Application\STM32F10X_Debug\Exe\Template_Application.out</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Application\STM32F10X_Debug\Obj\main.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\Application\STM32F10X_Debug\Obj\main.__cstat.et</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Source\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1 8</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2 5</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 9</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 4 6 7 3</file>
+        </tool>
+      </outputs>
+    </file>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>STM32F10X_Release</name>
+    <outputs>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\Template_Application\STM32F10X_Release\Exe\Template_Application.out</file>
+      <file>$PROJ_DIR$\Source\main.c</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\Template_Application\STM32F10X_Release\Obj\main.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\Template_Application\STM32F10X_Release\Obj\main.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\Template_Application\STM32F10X_Release\List\Template_Application.map</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\Template_Application\STM32F10X_Release\Obj\main.__cstat.et</file>
+      <file>$PROJ_DIR$\MCU\STM32F10X\Linker\stm32f10x_app.icf</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+    </outputs>
+    <file>
+      <name>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\Template_Application\STM32F10X_Release\Exe\Template_Application.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 8 4 9 6 3</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 4</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 7</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 5 0</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+</project>
+
+

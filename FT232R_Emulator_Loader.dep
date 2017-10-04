@@ -1,0 +1,3113 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>743201972</fileChecksum>
+  <configuration>
+    <name>STM32F0XX_Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_i2c.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_usart.o</file>
+      <file>$PROJ_DIR$\Common\Driver\Driver_EEPROM_Emulator.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_iwdg.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\SEGGER_HardFaultHandler.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\main.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_gpio.o</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_tim.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usbd_pwr.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usbd_ctrlreq.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\FT232R_Emulator_VerndorRequest.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\FT232R_Emulator_BSP.pbi</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_adc.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_flash.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_pwr.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_pwr.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_i2c.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_dbgmcu.pbi</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_dbgmcu.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\SEGGER_HardFault_Handler.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_comp.o</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_conf.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usb_dcd.o</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_cec.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_crs.o</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_desc.c</file>
+      <file>$PROJ_DIR$\Source\FT232R_Emulator_VerndorRequest.c</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_desc.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\utility.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usbd.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usb_bsp.pbi</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_can.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_dma.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_exti.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\dl6M_tlf.a</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\system_stm32f0xx.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usbd_ctrlreq.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_dac.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\FT232R_Emulator.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_flash.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_dma.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\FT232R_Emulator.o</file>
+      <file>$PROJ_DIR$\Common\Debug\SEGGER_HardFaultHandler.c</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_class.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\fifo.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\m6M_tl.a</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_rtc.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_dma.o</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_spi.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\SEGGER_HardFaultHandler.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_crs.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_crs.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_main.c</file>
+      <file>$PROJ_DIR$\Source\FT232R_Emulator_VendorRequst.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\system_stm32f0xx.o</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_misc.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_wwdg.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usbd_core.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_dac.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_pwr.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_spi.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_rtc.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_dbgmcu.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_syscfg.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_cec.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\fifo.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_tim.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usbd_core.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usbd_class.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usb_core.o</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_exti.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_adc.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_exti.o</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_rcc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_driver_eeprom.pbi</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_comp.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\List\FT232R_Emulator_Loader.map</file>
+      <file>$TOOLKIT_DIR$\lib\rt6M_tl.a</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_syscfg.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usbd_pwr.pbi</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usbd_ioreq.pbi</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_class.c</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_rcc.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_can.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\EEPROM_Emulator.o</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Linker\stm32f0xx_sram.icf</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_crc.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\FT232R_Emulator_Descriptor.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usbd.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\main.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_i2c.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\EEPROM_Emulator.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_crc.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usbd_main.pbi</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_dac.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_usart.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_comp.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_wwdg.o</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_rtc.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_iwdg.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\FT232R_Emulator_BSP.o</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_flash.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_crc.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_cec.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usb_dcd_int.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usbd_usr.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_misc.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usb_dcd_int.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_gpio.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\FT232R_Emulator_Eeprom.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_spi.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usbd_desc.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_rcc.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\FT232R_Emulator_VendorRequest.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\FT232R_Emulator_VerndorRequest.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_adc.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\FT232R_Emulator_Descriptor.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\FT232R_Emulator_VendorRequest.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Exe\FT232R_Emulator_Loader.out</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_iwdg.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usbd_desc.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usbd_usr.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_misc.o</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_main.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+      <file>$PROJ_DIR$\Common\Debug\SEGGER_HardFault_Handler.S</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm0.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_can.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\FT232R_Emulator_Eeprom.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usbd_ioreq.o</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_adc.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_adc.h</file>
+      <file>$PROJ_DIR$\Common\Misc\fifo.h</file>
+      <file>$PROJ_DIR$\Common\Debugging\SEGGER_HardFault_Handler.S</file>
+      <file>$PROJ_DIR$\Common\Component\EEPROM_Emulator.c</file>
+      <file>$PROJ_DIR$\Common\Misc\datetime.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Driver\stm32f0xx_driver_eeprom.c</file>
+      <file>$PROJ_DIR$\Common\Component\EEPROM_Emulator.h</file>
+      <file>$PROJ_DIR$\Common\Misc\fifo.c</file>
+      <file>$PROJ_DIR$\Common\Misc\utility.c</file>
+      <file>$PROJ_DIR$\Common\Misc\datetime.c</file>
+      <file>$PROJ_DIR$\Common\Debugging\SEGGER_HardFaultHandler.c</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\stm32f0xx_3.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\stm32f0xx_5.h</file>
+      <file>$PROJ_DIR$\Common\Misc\utility.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\stm32f0xx_device.h</file>
+      <file>$PROJ_DIR$\Common\USB\usbd.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\stm32f0xx_7.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\stm32f0xx_8.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\stm32f0xx_4.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\stm32f0xx_6.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\system_stm32f0xx.c</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\stm32f0xx_0.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\stm32f0xx.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\system_stm32f0xx.h</file>
+      <file>$PROJ_DIR$\Common\USB\usb_type.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\stm32f0xx_1.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\startup_stm32f0xx.s</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\stm32f0xx_2.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_crs.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_exti.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_dac.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_dac.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_dbgmcu.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_dma.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_exti.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_dma.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_tim.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_dbgmcu.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_flash.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_cec.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_cec.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_comp.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_comp.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_crc.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_crc.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_can.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_crs.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_can.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_spi.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_spi.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_syscfg.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_rtc.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_pwr.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_syscfg.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_rcc.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_rcc.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_rtc.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_pwr.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_misc.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_i2c.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_iwdg.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_misc.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_i2c.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_iwdg.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_gpio.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_flash.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_gpio.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_usr.h</file>
+      <file>$PROJ_DIR$\Source\FT232R_Emulator_BSP.h</file>
+      <file>$PROJ_DIR$\Source\FT232R_Emulator_VendorRequest.h</file>
+      <file>$PROJ_DIR$\Source\STM32F0XX\FT232R_Emulator_BSP.c</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_ioreq.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_pwr.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_usr.c</file>
+      <file>$PROJ_DIR$\Source\FT232R_Emulator.c</file>
+      <file>$PROJ_DIR$\Source\FT232R_Emulator_Descriptor.h</file>
+      <file>$PROJ_DIR$\Source\FT232R_Emulator_Eeprom.c</file>
+      <file>$PROJ_DIR$\Source\FT232R_Emulator_Eeprom.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_core.c</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_ioreq.c</file>
+      <file>$PROJ_DIR$\Source\FT232R_Emulator_Type.h</file>
+      <file>$PROJ_DIR$\Source\STM32F0XX\FT232R_Emulator_BSP_Conf.h</file>
+      <file>$PROJ_DIR$\post-build.bat</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_ctrlreq.h</file>
+      <file>$PROJ_DIR$\Source\FT232R_Emulator.h</file>
+      <file>$PROJ_DIR$\Source\STM32F0XX\FT232R_Emulator_Conf.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_ctrlreq.c</file>
+      <file>$PROJ_DIR$\Source\main.c</file>
+      <file>$PROJ_DIR$\Source\FT232R_Emulator_VendorRequest.c</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_core.h</file>
+      <file>$PROJ_DIR$\Source\FT232R_Emulator_Descriptor.c</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_def.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_pwr.c</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_conf.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_regs.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_usart.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_usart.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_tim.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_bsp.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_wwdg.c</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_dcd.c</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_dcd.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_dcd_int.c</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_core.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_wwdg.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_bsp.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_core.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_dcd_int.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\utility.pbi</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_gpio.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usb_dcd.pbi</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_usart.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_driver_eeprom.o</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\stm32f0xx_conf.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\startup_stm32f0xx.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usb_core.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\stm32f0xx_tim.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usbd_main.o</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_wwdg.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\usb_bsp.o</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_syscfg.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\datetime.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\datetime.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Obj\FT232R_Emulator_Loader.pbd</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 133 84</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_desc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 135</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 125</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 165 168 42 3 239 97 105 60 229 55 29 173 260 169 88 25 112 52 123 21 73 235 23 167 164 163 95 13 56 35 268 80 258 254 218 170 161 32 81 217 237 126 160 171 157 158 162 141 139 64 34 114 83 19 77 256 0 65 109 8 265 253 252 248 240</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 29 170 97 123 73 42 32 81 21 55 229 217 237 23 239 168 160 167 141 139 95 64 88 169 171 173 157 164 158 165 162 163 260 13 34 25 114 56 83 105 19 35 77 112 256 268 0 3 65 80 109 52 8 258 265 60 126 235 248 253 240 254 218 252 161</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\FT232R_Emulator_VerndorRequest.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 129</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 11</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 58 161 97 123 73 42 32 81 21 55 170</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Common\Debug\SEGGER_HardFaultHandler.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 104</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 264</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 158 95 0 168 97 81 83 265 218 161 73 123 217 126 171 141 139 34 77 109 254 47 170 32 237 239 160 157 162 64 114 19 256 65 8 29 229 42 21 55 235 23 167 173 164 165 163 260 169 88 13 25 56 105 35 112 268 3 80 52 258 60 253 252 248 138 240</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 138 47 29 170 97 123 73 42 32 81 21 55 229 217 237 23 239 168 160 167 141 139 95 64 88 169 171 173 157 164 158 165 162 163 260 13 34 25 114 56 83 105 19 35 77 112 256 268 0 3 65 80 109 52 8 258 265 60 126 235 248 253 240 254 218 252 161</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_class.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 75</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 165 168 42 3 239 97 105 60 229 55 29 173 260 169 88 25 112 52 123 21 73 235 23 167 164 163 95 13 56 35 268 80 258 254 218 170 161 32 81 217 237 126 160 171 157 158 162 141 139 64 34 114 83 19 77 256 0 65 109 8 265 253 252 248 47 240</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 47 29 170 97 123 73 42 32 81 21 55 229 217 237 23 239 168 160 167 141 139 95 64 88 169 171 173 157 164 158 165 162 163 260 13 34 25 114 56 83 105 19 35 77 112 256 268 0 3 65 80 109 52 8 258 265 60 126 235 248 253 240 254 218 252 161</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Debug\Exe\FT232R_Emulator_Loader.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 84</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 94 269 93 71 45 111 98 143 132 5 20 4 261 130 142 70 22 103 26 40 68 51 259 79 43 7 17 110 137 15 91 50 66 69 263 1 108 59 267 76 24 116 31 62 39 144 9 117 30 85 49 37</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Common\Debug\SEGGER_HardFault_Handler.S</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_adc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 78</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 130</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0 95 168 165 83 265 173 260 97 123 21 73 34 77 109 167 164 163 141 139 42 55 64 114 19 256 65 8 201 160 171 157 158 162 169 88 32 81 13 25 56 105 35 112 268 3 80 52 258 60 146</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 146 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 191 185 189 174 187 176 178 179 175 211 212 199 208 209 203 201 197 194 244 243 251 207</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Common\Debugging\SEGGER_HardFault_Handler.S</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Common\Component\EEPROM_Emulator.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 102</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2 123 21 73 42 55 152 97 32 81</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 152 97 123 73 42 32 81 21 55 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Driver\stm32f0xx_driver_eeprom.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 82</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 259</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 123 0 95 164 83 265 168 97 32 167 163 141 139 34 77 109 160 73 81 173 165 260 64 114 19 256 65 8 42 21 55 171 157 158 162 169 88 13 25 56 105 35 112 268 3 80 52 258 60 2</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2 97 123 73 42 32 81 21 55 168 160 167 141 139 95 64 88 169 171 173 157 164 158 165 162 163 260 13 34 25 114 56 83 105 19 35 77 112 256 268 0 3 65 80 109 52 8 258 265 60</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Common\Misc\fifo.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 71</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55 73 123 97 147 42 266 21 113 6 32 81 119</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 113 123 73 42 32 81 21 55 6 266 119 147 97</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Common\Misc\utility.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 255</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 30</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 73 97 123 266 42 21 55 159 32 81 6 119</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 159 97 123 73 42 32 81 21 55 266 6 119</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Common\Misc\datetime.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 270</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 269</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 150</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 150</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Common\Debugging\SEGGER_HardFaultHandler.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\system_stm32f0xx.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 59</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 160 35 168 162 169 88 123 13 80 157 97 32 95 56 268 258 171 158 73 81 25 105 112 3 52 60 167 173 164 165 163 260 141 139 42 21 55 64 34 114 83 19 77 256 0 65 109 8 265</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 160 168 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 13 34 25 114 56 83 105 19 35 77 112 256 268 0 3 65 80 109 52 8 258 265 60</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\startup_stm32f0xx.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 261</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>AARM</name>
+          <file> 160</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_dac.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 40</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55 256 168 164 114 8 167 163 141 139 42 64 123 19 65 173 165 260 97 21 73 95 34 83 77 0 109 265 160 171 157 158 162 169 88 32 81 13 25 56 105 35 112 268 3 80 52 258 60 176</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 176 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 146 191 185 189 174 187 178 179 175 211 212 199 208 209 203 201 197 194 244 243 251 207</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_exti.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 79</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 168 21 77 173 260 97 123 73 34 109 165 95 83 0 265 167 164 163 141 139 42 55 64 114 19 256 65 8 160 171 157 158 162 169 88 32 81 13 25 56 105 35 112 268 3 80 52 258 60 175</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 175 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 146 191 185 189 174 187 176 178 179 211 212 199 208 209 203 201 197 194 244 243 251 207</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_dma.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 95 56 168 158 97 258 160 32 268 171 169 88 123 13 35 80 157 162 73 81 25 105 112 3 52 60 167 173 164 165 163 260 141 139 42 21 55 64 34 114 83 19 77 256 0 65 109 8 265 179</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 179 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 146 191 185 189 174 187 176 178 175 211 212 199 208 209 203 201 197 194 244 243 251 207</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_tim.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 72</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 263</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 168 112 157 73 123 25 52 160 162 81 105 3 60 171 158 169 97 88 32 95 13 56 35 268 80 258 201 167 173 164 165 163 260 141 139 42 21 55 64 34 114 83 19 77 256 0 65 109 8 265 244</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 244 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 146 191 185 189 174 187 176 178 179 175 211 212 199 208 209 203 201 197 194 243 251 207</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_dbgmcu.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 68</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60 162 105 160 81 3 168 157 73 123 25 112 52 171 158 169 97 88 32 95 13 56 35 268 80 258 167 173 164 165 163 260 141 139 42 21 55 64 34 114 83 19 77 256 0 65 109 8 265 178</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 178 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 146 191 185 189 174 187 176 179 175 211 212 199 208 209 203 201 197 194 244 243 251 207</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_flash.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 43</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 112 157 73 123 25 52 160 162 81 105 3 60 168 171 158 169 97 88 32 95 13 56 35 268 80 258 167 173 164 165 163 260 141 139 42 21 55 64 34 114 83 19 77 256 0 65 109 8 265 211</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 211 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 146 191 185 189 174 187 176 178 179 175 212 199 208 209 203 201 197 194 244 243 251 207</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_cec.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 115</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 70</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21 77 168 173 260 97 123 73 34 109 165 95 83 0 265 167 164 163 141 139 42 55 64 114 19 256 65 8 201 160 171 157 158 162 169 88 32 81 13 25 56 105 35 112 268 3 80 52 258 60 185</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 185 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 146 191 189 174 187 176 178 179 175 211 212 199 208 209 203 201 197 194 244 243 251 207</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_comp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 107</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 22</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 80 168 169 171 88 123 13 35 158 160 97 32 95 56 268 258 157 162 73 81 25 105 112 3 52 60 167 173 164 165 163 260 141 139 42 21 55 64 34 114 83 19 77 256 0 65 109 8 265 187</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 187 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 146 191 185 189 174 176 178 179 175 211 212 199 208 209 203 201 197 194 244 243 251 207</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_crc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 96</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 103</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 168 0 95 165 83 265 173 260 97 123 21 73 34 77 109 167 164 163 141 139 42 55 64 114 19 256 65 8 160 171 157 158 162 169 88 32 81 13 25 56 105 35 112 268 3 80 52 258 60 189</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 189 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 146 191 185 174 187 176 178 179 175 211 212 199 208 209 203 201 197 194 244 243 251 207</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_crs.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 26</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35 168 171 169 88 123 13 80 158 160 97 32 95 56 268 258 157 162 73 81 25 105 112 3 52 60 201 167 173 164 165 163 260 141 139 42 21 55 64 34 114 83 19 77 256 0 65 109 8 265 174</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 174 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 146 191 185 189 187 176 178 179 175 211 212 199 208 209 203 201 197 194 244 243 251 207</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_can.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 92</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 142</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 169 80 171 88 123 13 168 35 158 160 97 32 95 56 268 258 157 162 73 81 25 105 112 3 52 60 201 167 173 164 165 163 260 141 139 42 21 55 64 34 114 83 19 77 256 0 65 109 8 265 191</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 191 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 146 185 189 174 187 176 178 179 175 211 212 199 208 209 203 201 197 194 244 243 251 207</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_spi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 124</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 265 165 83 168 95 0 173 260 97 123 21 73 34 77 109 167 164 163 141 139 42 55 64 114 19 256 65 8 201 160 171 157 158 162 169 88 32 81 13 25 56 105 35 112 268 3 80 52 258 60 194</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 194 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 146 191 185 189 174 187 176 178 179 175 211 212 199 208 209 203 201 197 244 243 251 207</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_syscfg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 86</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 69</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 164 114 168 55 256 167 163 141 139 42 64 123 19 65 173 165 260 97 21 73 95 34 83 77 0 109 265 160 171 157 158 162 169 88 32 81 13 25 56 105 35 112 268 3 80 52 258 60 199</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 199 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 146 191 185 189 174 187 176 178 179 175 211 212 208 209 203 201 197 194 244 243 251 207</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_pwr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 83 165 168 265 95 0 173 260 97 123 21 73 34 77 109 167 164 163 141 139 42 55 64 114 19 256 65 8 201 160 171 157 158 162 169 88 32 81 13 25 56 105 35 112 268 3 80 52 258 60 203</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 203 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 146 191 185 189 174 187 176 178 179 175 211 212 199 208 209 201 197 194 244 243 251 207</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_rcc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 127</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 91</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 164 114 168 55 256 167 163 141 139 42 64 123 19 65 173 165 260 97 21 73 95 34 83 77 0 109 265 169 160 171 157 158 162 88 32 81 13 25 56 105 35 112 268 3 80 52 258 60 201</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 201 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 146 191 185 189 174 187 176 178 179 175 211 212 199 208 209 203 197 194 244 243 251 207</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_rtc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 67</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 50</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 173 260 73 34 97 123 109 168 21 77 165 95 83 0 265 167 164 163 141 139 42 55 64 114 19 256 65 8 160 171 157 158 162 169 88 32 81 13 25 56 105 35 112 268 3 80 52 258 60 197</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 197 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 146 191 185 189 174 187 176 178 179 175 211 212 199 208 209 203 201 194 244 243 251 207</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_misc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 118</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 137</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 73 260 34 168 173 97 123 109 21 77 165 95 83 0 265 167 164 163 141 139 42 55 64 114 19 256 65 8 160 171 157 158 162 169 88 32 81 13 25 56 105 35 112 268 3 80 52 258 60 207</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 207 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 146 191 185 189 174 187 176 178 179 175 211 212 199 208 209 203 201 197 194 244 243 251</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_i2c.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 101</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 168 35 171 169 88 123 13 80 158 160 97 32 95 56 268 258 157 162 73 81 25 105 112 3 52 60 201 167 173 164 165 163 260 141 139 42 21 55 64 34 114 83 19 77 256 0 65 109 8 265 208</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 208 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 146 191 185 189 174 187 176 178 179 175 211 212 199 209 203 201 197 194 244 243 251 207</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_iwdg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 134</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 110</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 168 35 171 169 88 123 13 80 158 160 97 32 95 56 268 258 157 162 73 81 25 105 112 3 52 60 167 173 164 165 163 260 141 139 42 21 55 64 34 114 83 19 77 256 0 65 109 8 265 209</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 209 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 146 191 185 189 174 187 176 178 179 175 211 212 199 208 203 201 197 194 244 243 251 207</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 121</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 7</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 141 65 167 139 168 163 42 64 123 19 164 55 114 256 8 173 165 260 97 21 73 95 34 83 77 0 109 265 201 160 171 157 158 162 169 88 32 81 13 25 56 105 35 112 268 3 80 52 258 60 212</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 212 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 146 191 185 189 174 187 176 178 179 175 211 199 208 209 203 201 197 194 244 243 251 207</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\STM32F0XX\FT232R_Emulator_BSP.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 111</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 162 169 25 123 97 231 73 88 52 21 160 112 168 157 105 3 60 227 226 42 55 171 158 95 13 56 35 268 80 258 147 32 81 167 173 164 165 163 260 141 139 64 34 114 83 19 77 256 0 65 109 8 265 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 214 226 97 123 73 42 32 81 21 55 231 160 227 168 167 141 139 95 64 88 169 171 173 157 164 158 165 162 163 260 13 34 25 114 56 83 105 19 35 77 112 256 268 0 3 65 80 109 52 8 258 265 60 147</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_usr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 136</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 117</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32 160 268 253 158 97 95 56 258 240 171 169 88 123 13 35 80 168 235 254 157 162 73 81 25 105 112 3 52 60 248 170 239 167 173 164 165 163 260 141 139 42 21 55 64 34 114 83 19 77 256 0 65 109 8 265 213 218 252</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 213 235 248 253 239 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 13 34 25 114 56 83 105 19 35 77 112 256 268 0 3 65 80 109 52 8 258 265 60 240 170 254 218 252</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\FT232R_Emulator.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 223 81 226 231 215 73 123 160 214 221 152 32 161 97 2 230 42 21 55 170</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 230 226 97 123 73 42 32 81 21 55 231 160 214 223 221 161 170 215 152 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\FT232R_Emulator_Eeprom.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 122</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 143</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 226 231 42 55 73 152 97 123 21 230 32 81 2 223 160</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 223 226 97 123 73 42 32 81 21 55 231 160 230 152 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_core.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 74</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 62</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 95 0 165 83 265 168 170 173 260 97 123 21 73 34 77 109 218 217 248 239 167 164 163 141 139 42 55 64 114 19 256 65 8 29 229 231 254 253 240 160 171 157 158 162 169 88 32 81 13 25 56 105 35 112 268 3 80 52 258 60 252 237 161 235 126</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 235 248 253 239 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 13 34 25 114 56 83 105 19 35 77 112 256 268 0 3 65 80 109 52 8 258 265 60 240 170 254 218 252 229 217 237 126 29 161 231</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_ioreq.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 89</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 144</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60 162 105 237 168 160 81 3 254 157 73 123 25 112 52 253 240 171 158 169 97 88 32 95 13 56 35 268 80 258 235 126 248 170 239 167 173 164 165 163 260 141 139 42 21 55 64 34 114 83 19 77 256 0 65 109 8 265 217 218 252</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 217 237 126 235 248 253 239 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 13 34 25 114 56 83 105 19 35 77 112 256 268 0 3 65 80 109 52 8 258 265 60 240 170 254 218 252</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_ctrlreq.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 39</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 265 165 83 168 95 0 170 173 260 97 123 21 73 34 77 109 235 229 167 164 163 141 139 42 55 64 114 19 256 65 8 217 240 161 160 171 157 158 162 169 88 32 81 13 25 56 105 35 112 268 3 80 52 258 60 126 248 239 29 237 254 253 218 252</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 239 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 13 34 25 114 56 83 105 19 35 77 112 256 268 0 3 65 80 109 52 8 258 265 60 161 170 229 217 237 126 235 248 253 240 254 218 252 29</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 100</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 123 21 73 97 42 55 170 32 81 161</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 161 97 123 73 42 32 81 21 55 170 168 160 167 141 139 95 64 88 169 171 173 157 164 158 165 162 163 260 13 34 25 114 56 83 105 19 35 77 112 256 268 0 3 65 80 109 52 8 258 265 60</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\FT232R_Emulator_VendorRequest.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 128</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 132</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55 214 161 42 97 230 152 231 123 21 73 170 2 215 226 32 81 160</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 215 226 97 123 73 42 32 81 21 55 231 160 161 170 230 214 152 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\FT232R_Emulator_Descriptor.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 131</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 98</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 170 123 32 73 81 97 231 161 42 21 55 221 160</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 221 161 97 123 73 42 32 81 21 55 170 231 160</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_pwr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 87</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 9</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 164 114 168 55 256 252 239 167 163 141 139 42 64 123 19 65 248 170 173 165 260 97 21 73 95 34 83 77 0 109 265 218 235 254 253 240 160 171 157 158 162 169 88 32 81 13 25 56 105 35 112 268 3 80 52 258 60</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 218 235 248 253 239 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 13 34 25 114 56 83 105 19 35 77 112 256 268 0 3 65 80 109 52 8 258 265 60 240 170 254 252</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 99</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 31</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 254 160 237 158 97 35 168 239 123 21 73 229 253 240 171 169 88 13 80 213 42 55 29 157 162 95 56 268 258 218 47 252 170 32 81 161 217 235 126 248 167 173 164 165 163 260 141 139 64 25 105 112 3 52 60 34 114 83 19 77 256 0 65 109 8 265</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 161 97 123 73 42 32 81 21 55 170 47 29 229 217 237 126 235 248 253 239 168 160 167 141 139 95 64 88 169 171 173 157 164 158 165 162 163 260 13 34 25 114 56 83 105 19 35 77 112 256 268 0 3 65 80 109 52 8 258 265 60 240 254 218 252 213</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_usart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 106</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 1</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35 168 171 169 88 123 13 80 158 160 97 32 95 56 268 258 157 162 73 81 25 105 112 3 52 60 201 167 173 164 165 163 260 141 139 42 21 55 64 34 114 83 19 77 256 0 65 109 8 265 243</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 243 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 146 191 185 189 174 187 176 178 179 175 211 212 199 208 209 203 201 197 194 244 251 207</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_bsp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 267</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 95 56 158 253 97 258 168 160 32 268 240 171 169 88 123 13 35 80 248 157 162 73 81 25 105 112 3 52 60 170 239 167 173 164 165 163 260 141 139 42 21 55 64 34 114 83 19 77 256 0 65 109 8 265 252</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 252 248 253 239 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 13 34 25 114 56 83 105 19 35 77 112 256 268 0 3 65 80 109 52 8 258 265 60 240 170</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_wwdg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 108</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35 168 171 169 88 123 13 80 158 160 97 32 95 56 268 258 157 162 73 81 25 105 112 3 52 60 201 167 173 164 165 163 260 141 139 42 21 55 64 34 114 83 19 77 256 0 65 109 8 265 251</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 251 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 146 191 185 189 174 187 176 178 179 175 211 212 199 208 209 203 201 197 194 244 243 207</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_dcd.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 257</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 24</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 164 13 168 55 80 239 167 163 141 139 42 64 123 35 170 173 165 260 97 21 73 95 56 268 258 253 240 160 171 157 158 162 169 88 32 81 25 105 112 3 52 60 248 34 114 83 19 77 256 0 65 109 8 265</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 248 253 239 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 13 34 25 114 56 83 105 19 35 77 112 256 268 0 3 65 80 109 52 8 258 265 60 240 170</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_dcd_int.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 120</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 116</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 114 164 168 8 218 55 256 252 239 167 163 141 139 42 64 123 19 65 248 170 173 165 260 97 21 73 95 34 83 77 0 109 265 235 254 253 240 160 171 157 158 162 169 88 32 81 13 25 56 105 35 112 268 3 80 52 258 60</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 254 218 235 248 253 239 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 13 34 25 114 56 83 105 19 35 77 112 256 268 0 3 65 80 109 52 8 258 265 60 240 170 252</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_core.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 262</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 76</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 169 80 171 88 123 13 35 168 158 160 97 32 95 56 268 258 239 157 162 73 81 25 105 112 3 52 60 240 167 173 164 165 163 260 141 139 42 21 55 64 34 114 83 19 77 256 0 65 109 8 265 253</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 253 239 168 160 167 141 97 123 73 42 32 81 21 55 139 95 64 88 169 171 173 157 164 158 165 162 163 260 13 34 25 114 56 83 105 19 35 77 112 256 268 0 3 65 80 109 52 8 258 265 60 240</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>STM32F0XX_Release</name>
+    <outputs>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_i2c.h</file>
+      <file>$PROJ_DIR$\Common\Driver\Driver_EEPROM_Emulator.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_iwdg.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_tim.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_adc.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_dbgmcu.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_cec.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_desc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_can.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_dma.h</file>
+      <file>$TOOLKIT_DIR$\lib\dl6M_tlf.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_class.h</file>
+      <file>$TOOLKIT_DIR$\lib\m6M_tl.a</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_spi.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_crs.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_misc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_pwr.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_exti.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_rcc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_comp.h</file>
+      <file>$TOOLKIT_DIR$\lib\rt6M_tl.a</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_dac.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_dma.pbi</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_rtc.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_flash.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_crc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm0.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\FT232R_Emulator.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\FT232R_Emulator_Eeprom.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usbd_ioreq.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usbd_usr.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_misc.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_dac.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\FT232R_Emulator_VendorRequest.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\main.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\system_stm32f0xx.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\system_stm32f0xx.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\FT232R_Emulator_BSP.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usbd_core.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_syscfg.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\datetime.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\datetime.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usbd.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\EEPROM_Emulator.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_crc.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_crs.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\utility.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_pwr.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\FT232R_Emulator_VendorRequest.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_rcc.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_i2c.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_dma.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_usart.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usb_dcd.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usb_bsp.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usb_core.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usbd_pwr.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\test.input.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_adc.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_driver_eeprom.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\FT232R_Emulator_Descriptor.o</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Linker\stm32f0xx_flash.icf</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usbd_ctrlreq.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usbd_usr.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usbd_ctrlreq.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usbd_core.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_dbgmcu.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usb_bsp.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_cec.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_rtc.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\List\FT232R_Emulator_Loader.map</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Exe\FT232R_Emulator_Loader.hex</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\SEGGER_HardFaultHandler.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\startup_stm32f0xx.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\FT232R_Emulator_Eeprom.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\FT232R_Emulator_BSP.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usbd_pwr.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_pwr.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_comp.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_iwdg.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\fifo.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\EEPROM_Emulator.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_wwdg.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_crc.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_can.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_wwdg.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_crc.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\FT232R_Emulator_Loader.pbd</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_exti.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\utility.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_dbgmcu.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_syscfg.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_crs.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_adc.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_misc.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_adc.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usb_core.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usbd_ctrlreq.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_usart.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_dac.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_can.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_cec.pbi</file>
+      <file>$PROJ_DIR$\Source\test.input.c</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_usart.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_tim.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\FT232R_Emulator.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_wwdg.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_rcc.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_dac.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_tim.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usb_dcd_int.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_iwdg.o</file>
+      <file>$PROJ_DIR$\Source\test.input</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\test.input.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\SEGGER_HardFault_Handler.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\datetime.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_exti.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\main.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\EEPROM_Emulator.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usbd.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\FT232R_Emulator_VendorRequest.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\FT232R_Emulator_BSP.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_gpio.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usbd.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usb_dcd_int.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_i2c.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usb_core.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_driver_eeprom.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_comp.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usb_bsp.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usbd_ioreq.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\SEGGER_HardFaultHandler.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_comp.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\system_stm32f0xx.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_flash.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_gpio.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usbd_ioreq.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_flash.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_spi.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_spi.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_gpio.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_rcc.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\utility.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_tim.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_can.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_rtc.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_dbgmcu.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_spi.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Exe\FT232R_Emulator_Loader.out</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_exti.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\SEGGER_HardFaultHandler.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\fifo.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_crs.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usbd_pwr.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_iwdg.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\main.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\fifo.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_driver_eeprom.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_pwr.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\FT232R_Emulator_Descriptor.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\FT232R_Emulator_Descriptor.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_rtc.o</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_adc.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_adc.h</file>
+      <file>$PROJ_DIR$\..\..\Common\Driver\Driver_EEPROM_Emulator.h</file>
+      <file>$PROJ_DIR$\Common\Misc\fifo.h</file>
+      <file>$PROJ_DIR$\Common\Debugging\SEGGER_HardFault_Handler.S</file>
+      <file>$PROJ_DIR$\Common\Component\EEPROM_Emulator.c</file>
+      <file>$PROJ_DIR$\Common\Misc\datetime.h</file>
+      <file>$PROJ_DIR$\Common\Misc\compiler.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Driver\stm32f0xx_driver_eeprom.c</file>
+      <file>$PROJ_DIR$\Common\Component\EEPROM_Emulator.h</file>
+      <file>$PROJ_DIR$\Common\Misc\fifo.c</file>
+      <file>$PROJ_DIR$\Common\Misc\utility.c</file>
+      <file>$PROJ_DIR$\Common\Misc\datetime.c</file>
+      <file>$PROJ_DIR$\Common\Debugging\SEGGER_HardFaultHandler.c</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\stm32f0xx_3.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\stm32f0xx_5.h</file>
+      <file>$PROJ_DIR$\Common\Misc\utility.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\stm32f0xx_device.h</file>
+      <file>$PROJ_DIR$\Common\USB\usbd.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\stm32f0xx_7.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\stm32f0xx_8.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\stm32f0xx_4.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\stm32f0xx_6.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\system_stm32f0xx.c</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\stm32f0xx_0.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\CMSIS\stm32f0xx_conf.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\stm32f0xx.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\system_stm32f0xx.h</file>
+      <file>$PROJ_DIR$\Common\USB\usb_type.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\stm32f0xx_1.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\startup_stm32f0xx.s</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\stm32f0xx_2.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_crs.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_exti.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_dac.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_dac.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_dbgmcu.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_dma.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_exti.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_dma.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_tim.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_dbgmcu.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_flash.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_cec.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_cec.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_comp.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_comp.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_crc.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_crc.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_can.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_crs.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_can.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_spi.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_spi.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_syscfg.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_rtc.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usbd_usr.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_pwr.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_syscfg.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_rcc.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_rcc.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_rtc.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_pwr.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_misc.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_i2c.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_iwdg.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_misc.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_i2c.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_iwdg.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_gpio.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_flash.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_gpio.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_usr.h</file>
+      <file>$PROJ_DIR$\Source\FT232R_Emulator_BSP.h</file>
+      <file>$PROJ_DIR$\Source\FT232R_Emulator_VendorRequest.h</file>
+      <file>$PROJ_DIR$\Source\STM32F0XX\FT232R_Emulator_BSP.c</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\FT232R_Emulator.pbi</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_ioreq.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_pwr.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_usr.c</file>
+      <file>$PROJ_DIR$\Source\FT232R_Emulator.c</file>
+      <file>$PROJ_DIR$\Source\FT232R_Emulator_Descriptor.h</file>
+      <file>$PROJ_DIR$\Source\FT232R_Emulator_Eeprom.c</file>
+      <file>$PROJ_DIR$\Source\FT232R_Emulator_Eeprom.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_core.c</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_ioreq.c</file>
+      <file>$PROJ_DIR$\Source\FT232R_Emulator_Type.h</file>
+      <file>$PROJ_DIR$\Source\STM32F0XX\FT232R_Emulator_BSP_Conf.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usbd_core.__cstat.et</file>
+      <file>$PROJ_DIR$\post-build.bat</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_ctrlreq.h</file>
+      <file>$PROJ_DIR$\Source\FT232R_Emulator.h</file>
+      <file>$PROJ_DIR$\Source\STM32F0XX\FT232R_Emulator_Conf.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_ctrlreq.c</file>
+      <file>$PROJ_DIR$\Source\main.c</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\FT232R_Emulator_Eeprom.pbi</file>
+      <file>$PROJ_DIR$\Source\FT232R_Emulator_VendorRequest.c</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_core.h</file>
+      <file>$PROJ_DIR$\Source\FT232R_Emulator_Descriptor.c</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_dma.__cstat.et</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_def.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_pwr.c</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_conf.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_regs.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_usart.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_usart.h</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_tim.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_bsp.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_wwdg.c</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_dcd.c</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_dcd.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_dcd_int.c</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_core.c</file>
+      <file>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_wwdg.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_bsp.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_core.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_dcd_int.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_gpio.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_usart.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\stm32f0xx_conf.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_wwdg.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$PROJ_DIR$\MCU\STM32F0XX\Library\SPL\stm32f0xx_syscfg.h</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_misc.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_flash.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_i2c.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_syscfg.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\stm32f0xx_cec.o</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usb_dcd.pbi</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usb_dcd.__cstat.et</file>
+      <file>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Obj\usb_dcd_int.o</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 165 86</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\test.input.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 129</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 73</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\test.input</name>
+      <outputs>
+        <tool>
+          <name>CUSTOM</name>
+          <file> 161</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>C:\Program Files (x86)\IAR Systems\EWARM7602\Output\FT232R_Emulator_Loader\STM32F0XX_Release\Exe\FT232R_Emulator_Loader.out</name>
+      <outputs>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 87</file>
+        </tool>
+        <tool>
+          <name>ILINK</name>
+          <file> 86</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 77 56 97 173 43 137 76 90 64 50 130 88 89 74 100 307 94 99 61 48 82 67 75 166 304 151 66 127 110 63 157 178 155 107 125 68 98 52 70 71 69 310 139 81 113 152 170 46 62 28 16 13</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_adc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 111</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 74</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 109</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0 30 205 201 27 300 210 299 31 39 7 23 11 24 34 203 200 199 42 41 14 18 21 37 6 297 22 4 239 196 208 193 194 198 206 29 10 26 5 8 19 32 12 35 302 2 25 17 298 20 180</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 180 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 228 222 226 211 224 213 215 216 212 249 250 237 246 247 241 239 234 231 286 285 293 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Common\Debugging\SEGGER_HardFault_Handler.S</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 130</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Common\Component\EEPROM_Emulator.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 97</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 134</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1 39 7 23 14 18 188 31 10 26</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 188 31 39 23 14 10 26 7 18 1</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Driver\stm32f0xx_driver_eeprom.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 174</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 75</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 143</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39 0 30 200 27 300 205 31 10 203 199 42 41 11 24 34 196 23 26 210 201 299 21 37 6 297 22 4 14 7 18 208 193 194 198 206 29 5 8 19 32 12 35 302 2 25 17 298 20 1</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 1 31 39 23 14 10 26 7 18 205 196 203 42 41 30 21 29 206 208 210 193 200 194 201 198 199 299 5 11 8 37 19 27 32 6 12 24 35 297 302 0 2 22 25 34 17 4 298 300 20</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Common\Misc\fifo.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 168</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 173</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 96</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18 23 39 31 182 14 301 7 36 3 10 26 38</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 36 39 23 14 10 26 7 18 3 301 38 182 31</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Common\Misc\utility.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 158</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 62</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 105</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23 31 39 301 14 7 18 195 10 26 3 38</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 195 31 39 23 14 10 26 7 18 301 3 38</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Common\Misc\datetime.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 131</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 56</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 57</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 185</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 185</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Common\Debugging\SEGGER_HardFaultHandler.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 167</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 88</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 147</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\system_stm32f0xx.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 149</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 196 12 205 198 206 29 39 5 25 193 31 10 30 19 302 298 208 194 23 26 8 32 35 2 17 20 203 210 200 201 199 299 42 41 14 7 18 21 11 37 27 6 24 297 0 22 34 4 300</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 196 205 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 5 11 8 37 19 27 32 6 12 24 35 297 302 0 2 22 25 34 17 4 298 300 20</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\CMSIS\startup_stm32f0xx.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 89</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>AARM</name>
+          <file> 196</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_dac.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 124</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 48</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 115</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18 297 205 200 37 4 203 199 42 41 14 21 39 6 22 210 201 299 31 7 23 30 11 27 24 0 34 300 196 208 193 194 198 206 29 10 26 5 8 19 32 12 35 302 2 25 17 298 20 213</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 213 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 180 228 222 226 211 224 215 216 212 249 250 237 246 247 241 239 234 231 286 285 293 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_exti.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 104</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 166</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 132</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 205 7 24 210 299 31 39 23 11 34 201 30 27 0 300 203 200 199 42 41 14 18 21 37 6 297 22 4 196 208 193 194 198 206 29 10 26 5 8 19 32 12 35 302 2 25 17 298 20 212</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 212 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 180 228 222 226 211 224 213 215 216 249 250 237 246 247 241 239 234 231 286 285 293 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_dma.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 67</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 278</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30 19 205 194 31 298 196 10 302 208 206 29 39 5 12 25 193 198 23 26 8 32 35 2 17 20 203 210 200 201 199 299 42 41 14 7 18 21 11 37 27 6 24 297 0 22 34 4 300 216</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 216 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 180 228 222 226 211 224 213 215 212 249 250 237 246 247 241 239 234 231 286 285 293 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_tim.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 159</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 125</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 120</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 205 35 193 23 39 8 17 196 198 26 32 2 20 208 194 206 31 29 10 30 5 19 12 302 25 298 239 203 210 200 201 199 299 42 41 14 7 18 21 11 37 27 6 24 297 0 22 34 4 300 286</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 286 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 180 228 222 226 211 224 213 215 216 212 249 250 237 246 247 241 239 234 231 285 293 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_dbgmcu.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 106</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 82</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 163</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20 198 32 196 26 2 205 193 23 39 8 35 17 208 194 206 31 29 10 30 5 19 12 302 25 298 203 210 200 201 199 299 42 41 14 7 18 21 11 37 27 6 24 297 0 22 34 4 300 215</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 215 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 180 228 222 226 211 224 213 216 212 249 250 237 246 247 241 239 234 231 286 285 293 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_flash.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 150</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 304</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 153</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35 193 23 39 8 17 196 198 26 32 2 20 205 208 194 206 31 29 10 30 5 19 12 302 25 298 203 210 200 201 199 299 42 41 14 7 18 21 11 37 27 6 24 297 0 22 34 4 300 249</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 249 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 180 228 222 226 211 224 213 215 216 212 250 237 246 247 241 239 234 231 286 285 293 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_cec.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 117</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 307</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 84</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7 24 205 210 299 31 39 23 11 34 201 30 27 0 300 203 200 199 42 41 14 18 21 37 6 297 22 4 239 196 208 193 194 198 206 29 10 26 5 8 19 32 12 35 302 2 25 17 298 20 222</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 222 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 180 228 226 211 224 213 215 216 212 249 250 237 246 247 241 239 234 231 286 285 293 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_comp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 148</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 94</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 144</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25 205 206 208 29 39 5 12 194 196 31 10 30 19 302 298 193 198 23 26 8 32 35 2 17 20 203 210 200 201 199 299 42 41 14 7 18 21 11 37 27 6 24 297 0 22 34 4 300 224</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 224 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 180 228 222 226 211 213 215 216 212 249 250 237 246 247 241 239 234 231 286 285 293 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_crc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 99</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 102</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 205 0 30 201 27 300 210 299 31 39 7 23 11 24 34 203 200 199 42 41 14 18 21 37 6 297 22 4 196 208 193 194 198 206 29 10 26 5 8 19 32 12 35 302 2 25 17 298 20 226</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 226 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 180 228 222 211 224 213 215 216 212 249 250 237 246 247 241 239 234 231 286 285 293 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_crs.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 108</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 61</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 169</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 205 208 206 29 39 5 25 194 196 31 10 30 19 302 298 193 198 23 26 8 32 35 2 17 20 239 203 210 200 201 199 299 42 41 14 7 18 21 11 37 27 6 24 297 0 22 34 4 300 211</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 211 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 180 228 222 226 224 213 215 216 212 249 250 237 246 247 241 239 234 231 286 285 293 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_can.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 116</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 100</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 160</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 206 25 208 29 39 5 205 12 194 196 31 10 30 19 302 298 193 198 23 26 8 32 35 2 17 20 239 203 210 200 201 199 299 42 41 14 7 18 21 11 37 27 6 24 297 0 22 34 4 300 228</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 228 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 180 222 226 211 224 213 215 216 212 249 250 237 246 247 241 239 234 231 286 285 293 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_spi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 154</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 155</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 164</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 300 201 27 205 30 0 210 299 31 39 7 23 11 24 34 203 200 199 42 41 14 18 21 37 6 297 22 4 239 196 208 193 194 198 206 29 10 26 5 8 19 32 12 35 302 2 25 17 298 20 231</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 231 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 180 228 222 226 211 224 213 215 216 212 249 250 237 246 247 241 239 234 286 285 293 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_syscfg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 107</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 306</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4 200 37 205 18 297 203 199 42 41 14 21 39 6 22 210 201 299 31 7 23 30 11 27 24 0 34 300 196 208 193 194 198 206 29 10 26 5 8 19 32 12 35 302 2 25 17 298 20 237</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 237 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 180 228 222 226 211 224 213 215 216 212 249 250 246 247 241 239 234 231 286 285 293 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_pwr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 93</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 63</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 175</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 27 201 205 300 30 0 210 299 31 39 7 23 11 24 34 203 200 199 42 41 14 18 21 37 6 297 22 4 239 196 208 193 194 198 206 29 10 26 5 8 19 32 12 35 302 2 25 17 298 20 241</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 241 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 180 228 222 226 211 224 213 215 216 212 249 250 237 246 247 239 234 231 286 285 293 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_rcc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 123</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 157</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 65</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4 200 37 205 18 297 203 199 42 41 14 21 39 6 22 210 201 299 31 7 23 30 11 27 24 0 34 300 206 196 208 193 194 198 29 10 26 5 8 19 32 12 35 302 2 25 17 298 20 239</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 239 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 180 228 222 226 211 224 213 215 216 212 249 250 237 246 247 241 234 231 286 285 293 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_rtc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 85</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 178</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 162</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 210 299 23 11 31 39 34 205 7 24 201 30 27 0 300 203 200 199 42 41 14 18 21 37 6 297 22 4 196 208 193 194 198 206 29 10 26 5 8 19 32 12 35 302 2 25 17 298 20 234</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 234 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 180 228 222 226 211 224 213 215 216 212 249 250 237 246 247 241 239 231 286 285 293 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_misc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 47</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 110</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 303</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23 299 11 205 210 31 39 34 7 24 201 30 27 0 300 203 200 199 42 41 14 18 21 37 6 297 22 4 196 208 193 194 198 206 29 10 26 5 8 19 32 12 35 302 2 25 17 298 20 245</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 245 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 180 228 222 226 211 224 213 215 216 212 249 250 237 246 247 241 239 234 231 286 285 293</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_i2c.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 141</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 305</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 205 12 208 206 29 39 5 25 194 196 31 10 30 19 302 298 193 198 23 26 8 32 35 2 17 20 239 203 210 200 201 199 299 42 41 14 7 18 21 11 37 27 6 24 297 0 22 34 4 300 246</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 246 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 180 228 222 226 211 224 213 215 216 212 249 250 237 247 241 239 234 231 286 285 293 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_iwdg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 171</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 127</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 95</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 205 12 208 206 29 39 5 25 194 196 31 10 30 19 302 298 193 198 23 26 8 32 35 2 17 20 203 210 200 201 199 299 42 41 14 7 18 21 11 37 27 6 24 297 0 22 34 4 300 247</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 247 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 180 228 222 226 211 224 213 215 216 212 249 250 237 246 241 239 234 231 286 285 293 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 138</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 151</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 156</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42 22 203 41 205 199 14 21 39 6 200 18 37 297 4 210 201 299 31 7 23 30 11 27 24 0 34 300 239 196 208 193 194 198 206 29 10 26 5 8 19 32 12 35 302 2 25 17 298 20 250</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 250 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 180 228 222 226 211 224 213 215 216 212 249 237 246 247 241 239 234 231 286 285 293 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\STM32F0XX\FT232R_Emulator_BSP.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 137</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 91</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 198 206 8 39 271 23 29 17 7 196 35 205 31 193 32 2 20 266 265 14 18 208 194 30 5 19 12 302 25 298 182 10 26 203 210 200 201 199 299 42 41 21 11 37 27 6 24 297 0 22 34 4 300 252</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 252 265 31 39 23 14 10 26 7 18 271 196 266 205 203 42 41 30 21 29 206 208 210 193 200 194 201 198 199 299 5 11 8 37 19 27 32 6 12 24 35 297 302 0 2 22 25 34 17 4 298 300 20 182</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_usr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 46</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 235</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34 31 39 205 210 299 23 11 295 282 7 24 201 30 27 0 300 276 296 203 200 199 42 41 14 18 21 37 6 297 22 4 290 207 281 196 208 193 194 198 206 29 10 26 5 8 19 32 12 35 302 2 25 17 298 20 251 257 294</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 251 276 290 295 281 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 5 11 8 37 19 27 32 6 12 24 35 297 302 0 2 22 25 34 17 4 298 300 20 282 207 296 257 294</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\FT232R_Emulator.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 255</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 43</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 121</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 262 26 265 271 253 23 39 196 252 260 188 10 197 31 1 270 14 7 18 207</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 270 265 31 39 23 14 10 26 7 18 271 196 252 262 260 197 207 253 188 1</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\FT232R_Emulator_Eeprom.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 274</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 90</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 44</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 265 271 18 14 23 188 31 39 7 270 10 26 1 262 196</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 262 265 31 39 23 14 10 26 7 18 271 196 270 188 1</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_core.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 81</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 267</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39 193 8 23 17 35 205 207 196 198 26 32 2 20 257 256 290 281 208 194 206 31 29 10 30 5 19 12 302 25 298 9 269 271 296 295 282 203 210 200 201 199 299 42 41 14 7 18 21 11 37 27 6 24 297 0 22 34 4 300 294 279 197 276 40</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 276 290 295 281 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 5 11 8 37 19 27 32 6 12 24 35 297 302 0 2 22 25 34 17 4 298 300 20 282 207 296 257 294 269 256 279 40 9 197 271</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_ioreq.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 152</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 146</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18 297 279 200 37 4 296 205 203 199 42 41 14 21 39 6 22 295 282 210 201 299 31 7 23 30 11 27 24 0 34 300 276 40 290 207 281 196 208 193 194 198 206 29 10 26 5 8 19 32 12 35 302 2 25 17 298 20 256 257 294</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 256 279 40 276 290 295 281 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 5 11 8 37 19 27 32 6 12 24 35 297 302 0 2 22 25 34 17 4 298 300 20 282 207 296 257 294</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_ctrlreq.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 78</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 113</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 80</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20 205 198 32 196 26 2 193 23 39 8 35 17 256 276 269 208 194 206 31 29 10 30 5 19 12 302 25 298 207 282 197 203 210 200 201 199 299 42 41 14 7 18 21 11 37 27 6 24 297 0 22 34 4 300 40 290 281 9 279 296 295 257 294</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 281 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 5 11 8 37 19 27 32 6 12 24 35 297 302 0 2 22 25 34 17 4 298 300 20 197 207 269 256 279 40 276 290 295 282 296 257 294 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 133</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 50</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 172</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 302 10 193 30 19 298 39 196 198 5 12 25 205 207 23 26 31 208 194 206 29 8 32 35 2 17 20 14 7 18 203 210 200 201 199 299 42 41 21 11 37 27 6 24 297 0 22 34 4 300 197</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 197 31 39 23 14 10 26 7 18 207 205 196 203 42 41 30 21 29 206 208 210 193 200 194 201 198 199 299 5 11 8 37 19 27 32 6 12 24 35 297 302 0 2 22 25 34 17 4 298 300 20</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\FT232R_Emulator_VendorRequest.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 64</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 136</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 197 18 252 14 31 270 188 271 39 7 23 207 1 253 265 10 26 196</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 253 265 31 39 23 14 10 26 7 18 271 196 197 207 270 252 188 1</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\FT232R_Emulator_Descriptor.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 177</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 76</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 176</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 207 39 10 23 26 31 271 197 14 7 18 260 196</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 260 197 31 39 23 14 10 26 7 18 207 271 196</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd_pwr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 92</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 170</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 72</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 205 296 199 21 39 6 203 42 41 22 276 200 18 37 297 4 295 282 210 201 299 31 7 23 30 11 27 24 0 34 300 257 294 290 207 281 196 208 193 194 198 206 29 10 26 5 8 19 32 12 35 302 2 25 17 298 20</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 257 276 290 295 281 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 5 11 8 37 19 27 32 6 12 24 35 297 302 0 2 22 25 34 17 4 298 300 20 282 207 296 294</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usbd.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 135</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 139</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 58</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 210 296 299 31 279 282 12 205 281 39 7 23 269 295 201 21 5 25 251 14 18 9 203 200 199 42 41 30 19 302 298 257 15 294 207 10 26 197 256 276 40 290 196 208 193 194 198 206 29 8 32 35 2 17 20 11 37 27 6 24 297 0 22 34 4 300</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 197 31 39 23 14 10 26 7 18 207 15 9 269 256 279 40 276 290 295 281 205 196 203 42 41 30 21 29 206 208 210 193 200 194 201 198 199 299 5 11 8 37 19 27 32 6 12 24 35 297 302 0 2 22 25 34 17 4 298 300 20 282 296 257 294 251</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_usart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 119</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 68</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 114</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 205 208 206 29 39 5 25 194 196 31 10 30 19 302 298 193 198 23 26 8 32 35 2 17 20 239 203 210 200 201 199 299 42 41 14 7 18 21 11 37 27 6 24 297 0 22 34 4 300 285</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 285 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 180 228 222 226 211 224 213 215 216 212 249 250 237 246 247 241 239 234 231 286 293 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_bsp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 83</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 70</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 145</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0 30 205 201 27 300 295 282 210 299 31 39 7 23 11 24 34 25 290 203 200 199 42 41 14 18 21 37 6 297 22 4 19 207 281 196 208 193 194 198 206 29 10 26 5 8 32 12 35 302 2 17 298 20 294</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 294 290 295 281 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 5 11 8 37 19 27 32 6 12 24 35 297 302 0 2 22 25 34 17 4 298 300 20 282 207</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCU\STM32F0XX\Library\SPL\stm32f0xx_wwdg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 101</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 98</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 122</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 205 208 206 29 39 5 25 194 196 31 10 30 19 302 298 193 198 23 26 8 32 35 2 17 20 239 203 210 200 201 199 299 42 41 14 7 18 21 11 37 27 6 24 297 0 22 34 4 300 293</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 293 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 180 228 222 226 211 224 213 215 216 212 249 250 237 246 247 241 239 234 231 286 285 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_dcd.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 308</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 69</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 309</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41 203 205 42 5 199 14 21 39 25 200 18 12 295 282 210 201 299 31 7 23 30 19 302 298 207 281 196 208 193 194 198 206 29 10 26 8 32 35 2 17 20 290 11 37 27 6 24 297 0 22 34 4 300</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 290 295 281 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 5 11 8 37 19 27 32 6 12 24 35 297 302 0 2 22 25 34 17 4 298 300 20 282 207</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_dcd_int.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 126</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 310</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 140</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35 205 207 193 23 39 8 17 290 196 198 26 32 2 20 257 294 281 208 194 206 31 29 10 30 5 19 12 302 25 298 276 296 295 282 203 210 200 201 199 299 42 41 14 7 18 21 11 37 27 6 24 297 0 22 34 4 300</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 296 257 276 290 295 281 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 5 11 8 37 19 27 32 6 12 24 35 297 302 0 2 22 25 34 17 4 298 300 20 282 207 294</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU\STM32F0XX\Library\USB\usb_core.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 142</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 71</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 112</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31 205 39 34 210 299 23 11 7 24 201 30 27 0 300 281 203 200 199 42 41 14 18 21 37 6 297 22 4 282 196 208 193 194 198 206 29 10 26 5 8 19 32 12 35 302 2 25 17 298 20 295</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 295 281 205 196 203 42 31 39 23 14 10 26 7 18 41 30 21 29 206 208 210 193 200 194 201 198 199 299 5 11 8 37 19 27 32 6 12 24 35 297 302 0 2 22 25 34 17 4 298 300 20 282</file>
+        </tool>
+      </inputs>
+    </file>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Common\Misc\datetime.c</name>
+      <tool>C-STAT</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

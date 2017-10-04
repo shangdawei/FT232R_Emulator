@@ -1,0 +1,4 @@
+settings/
+*Debug/
+*Release/
+sync.ffs_db
